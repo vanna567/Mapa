@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pelota palas nivea
+* source:	https://sketchfab.com/3d-models/pelota-palas-nivea-edd8d0c1f1a34fdbb0948ace76f4943e
+* author:	XperienciaVirtual (https://sketchfab.com/XperienciaVirtual)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pelota palas nivea" (https://sketchfab.com/3d-models/pelota-palas-nivea-edd8d0c1f1a34fdbb0948ace76f4943e) by XperienciaVirtual (https://sketchfab.com/XperienciaVirtual) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
